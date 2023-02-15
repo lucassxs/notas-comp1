@@ -1,0 +1,4 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+Notas de Aula da Disciplina de Estatística Computacional 1.
